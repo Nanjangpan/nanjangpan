@@ -70,7 +70,7 @@ AUTO ML
 연세대학교 수업, 와이빅타 빅데이터 동아리 등에서 한 수업 및 스터디
 
 ### _Introduction Statistical Learning Study_
-`#Machine Learning` `#An Introduction to Statistical Learning` `#YBIGTA'
+`#Machine Learning` `#An Introduction to Statistical Learning` `#YBIGTA`
 
 [GitHub Link](https://github.com/Nanjangpan/ISL-Introduction-Statistical-Learning-Study) <br>
 
