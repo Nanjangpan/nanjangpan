@@ -64,7 +64,7 @@ AUTO ML
 
 카드 사기 거래를 찾는 캐글 대회
 - XGboost, LightGBM, Smote, Robust scaling, GridSearch 다양한 머신러닝 기법 사용
-<
+<br>
 
 ## Study 
 연세대학교 수업, 와이빅타 빅데이터 동아리 등에서 한 수업 및 스터디
