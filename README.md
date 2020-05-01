@@ -49,7 +49,7 @@ MMORPG Aion의 게임 로그를 활용하여 머신러닝 기법으로 게임 �
 ##
 
 ### _Auto ML_ 
-`#Python` `#Machine Learning` `AutoML`
+`#Python` `#Machine Learning` `#AutoML`
 
 [GitHub Link](https://github.com/Nanjangpan/Auto_ML)
 
