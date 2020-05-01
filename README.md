@@ -7,7 +7,10 @@ tel : 010-9063-7064
 **Game bot detection** 
 <br>
 <pre>
-  #Python #MachineLearning
+#Python 
+</pre>
+<pre>
+#MachineLearning
 </pre>
 
 
