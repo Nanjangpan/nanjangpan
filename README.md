@@ -40,6 +40,8 @@ tel: 010-9063-7064
 `#Python` `#Machine Learning` `#우수상`
 
 [GitHub Link](https://github.com/Nanjangpan/Game-bot-detection)
+[수상내역](https://www.kisis.or.kr/kisis/subIndex/282.do)
+
 
 MMORPG Aion의 게임 로그를 활용하여 머신러닝 기법으로 게임 봇을 탐지하는 대회
 - 대용량 로그 데이터를 전처리
@@ -49,7 +51,7 @@ MMORPG Aion의 게임 로그를 활용하여 머신러닝 기법으로 게임 �
 ### _연세 데이터사이언스 경진대회_
 `#Python` `#Machine Learing` `#우수상`
 
-[수상 내역](https://www.yonsei.ac.kr/ocx/news.jsp?mode=view&ar_seq=20191227163929003093&sr_volume=625&list_mode=list&sr_site=S&pager.offset=9)
+[수상내역](https://www.yonsei.ac.kr/ocx/news.jsp?mode=view&ar_seq=20191227163929003093&sr_volume=625&list_mode=list&sr_site=S&pager.offset=9)
 
 연세대학교에서 주최한 신한카드, NICE지니, PACKUS 총 3개의 회사의 데이터를 바탕으로 데이터기반 의사결정 지원 혹은 새로운 가치를 창출하는 대회
 - 패커스의 고객데이터 분석을 통해 회원 ID카드
