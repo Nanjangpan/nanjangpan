@@ -16,21 +16,10 @@ tel: 010-9063-7064
 ```
 
 ### Programming Languages
-- Java 🥇 [1](#connectup) [2](#cuebap) [3](#한국대학생IT경영학회-조원-편성-프로그램) 
-- Kotlin 🥇
-- TypeScript 🥇 [1](#to-do-list-백엔드-프로그래머스-썸머코딩-인턴-2차-과제) [2](#to-do-list-웹-프론트엔드-프로그래머스-썸머코딩-인턴-2차-과제)
-- JavaScript (ES6+) 🥇 [1](#서빙고-api) [2](#서빙고-사장님-대시보드) [3](#acqua-api) 
-- Python 🥇 [1](#네이버-블로그-ID-크롤러)
-- C 🥈
+
 
 ### Frameworks / Technologies
-- Android (Java/Kotlin) 🥇 [1](#connectup) [2](#cuebap)
-- Express (Node.js) 🥇 [1](#서빙고-api) [2](#acqua-api) [3](#to-do-list-백엔드-프로그래머스-썸머코딩-인턴-2차-과제)
-- AWS (EC2, RDS, ElastiCache, S3, Lambda) 🥈 [1](#서빙고-api) [2](#to-do-list-백엔드-프로그래머스-썸머코딩-인턴-2차-과제)
-- React 🥈 [1](#서빙고-사장님-대시보드) [2](#to-do-list-웹-프론트엔드-프로그래머스-썸머코딩-인턴-2차-과제)
-- React-Native 🥈
-- Docker 🥉 [1](#서빙고-api)
-- Django 🥉
+
 
 
 
@@ -64,7 +53,7 @@ MMORPG Aion의 게임 로그를 활용하여 머신러닝 기법으로 게임 �
 
 [GitHub Link](https://github.com/Nanjangpan/Auto_ML)
 
-카드 사기 거래를 찾는 캐글 대회
+AUTO ML 
 - XGboost, LightGBM, Smote, Robust scaling, GridSearch 다양한 머신러닝 기법 사용
 ##
 
