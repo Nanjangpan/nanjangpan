@@ -79,7 +79,7 @@ AUTO ML
 ## 
 
 ### _인공지능 및 기계학습 개론_
-`#Machine Learning` `#edwith` `#YBIGTA'
+`#Machine Learning` `#edwith` `#YBIGTA`
 
 [GitHub Link](https://github.com/Nanjangpan/study_AI-ML) <br>
 
