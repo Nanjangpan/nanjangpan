@@ -39,7 +39,7 @@ tel: 010-9063-7064
 ### _정보보호 R&D 데이터챌린지 2019 Game-bot-detection 대회_
 `#Python` `#Machine Learning` `#우수상`
 
-[GitHub Link](https://github.com/Nanjangpan/Game-bot-detection)
+[GitHub Link](https://github.com/Nanjangpan/Game-bot-detection) <br>
 [수상내역](https://www.kisis.or.kr/kisis/subIndex/282.do)
 
 
@@ -59,12 +59,12 @@ MMORPG Aion의 게임 로그를 활용하여 머신러닝 기법으로 게임 �
 - 업종 크롤링, 재구매 예측, User-based CF
 ##
 
-### _한국대학생IT경영학회 조원 편성 프로그램_ 
-`#Java`
+### _Project_Kaggle_Card_fraud_detection_ 
+`#Python` `#Machine Learning` 
 
-[GitHub Link](https://github.com/etture/KUSITMS-MemberSorter)
+[GitHub Link](https://github.com/Nanjangpan/Project_Kaggle_Card_fraud_detection/blob/master/README.md)
 
-조원들을 기준에 맞춰 각각의 조로 편성하는 프로그램입니다.
+사기 카드 거래를 찾는 캐글 대회
 ##
 
 ### _Acqua API_
