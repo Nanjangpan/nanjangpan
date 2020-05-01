@@ -59,82 +59,71 @@ MMORPG Aion의 게임 로그를 활용하여 머신러닝 기법으로 게임 �
 - 업종 크롤링, 재구매 예측, User-based CF
 ##
 
-### _Project_Kaggle_Card_fraud_detection_ 
-`#Python` `#Machine Learning` 
+### _Auto ML_ 
+`#Python` `#Machine Learning` `AutoML`
 
-[GitHub Link](https://github.com/Nanjangpan/Project_Kaggle_Card_fraud_detection/blob/master/README.md)
+[GitHub Link](https://github.com/Nanjangpan/Auto_ML)
 
 카드 사기 거래를 찾는 캐글 대회
 - XGboost, LightGBM, Smote, Robust scaling, GridSearch 다양한 머신러닝 기법 사용
 ##
 
-### _Acqua API_
-`#JavaScript` `#ES6` `#Node.js` `#Express`
+### _Kaggle Card fraud detection_ 
+`#Python` `#Machine Learning` 
 
-`#Heroku`
+[GitHub Link](https://github.com/Nanjangpan/Project_Kaggle_Card_fraud_detection)
 
-[GitHub Link](https://github.com/etture/acqua-api)
-
-아쿠아 REST API
-- 지인 관계 관리 서비스 'Acqua' 용 REST API
-- 지인 관련 데이터 DB CRUD 작업 및 API 문서화
+카드 사기 거래를 찾는 캐글 대회
+- XGboost, LightGBM, Smote, Robust scaling, GridSearch 다양한 머신러닝 기법 사용
 ##
 
-### _서빙고 API_
-`#JavaScript` `#ES6` `#Node.js` `#Express`
+## Study 
+연세대학교 수업, 와이빅타 빅데이터 동아리 등에서 한 수업 및 스터디
 
-`#AWS` `#Docker`
+### _Introduction Statistical Learning Study_
+`#Machine Learning` `#An Introduction to Statistical Learning` `#YBIGTA'
 
-[GitHub Link](https://github.com/etture/servinggo-api)
+[GitHub Link](https://github.com/Nanjangpan/ISL-Introduction-Statistical-Learning-Study) <br>
 
-서빙고 REST API
-- QR코드 메뉴 주문결제 서비스 서빙고 용 REST API
-- Redis, MySQL, Oauth2, Docker 사용
-##
+"An Introduction to Statistical Learning" 책을 스터디
+- 통계적 사고를 기반으로 다양한 머신러닝 기법 이해
+## 
 
-### _서빙고 사장님 대시보드_
-`#JavaScript` `#ES6` `#React` `#Redux`
+### _인공지능 및 기계학습 개론_
+`#Machine Learning` `#edwith` `#YBIGTA'
 
-[GitHub Link](https://github.com/etture/servinggo-merchant)
+[GitHub Link](https://github.com/Nanjangpan/study_AI-ML) <br>
 
-서빙고 사장님 대시보드
-- QR코드 메뉴 주문결제 서비스 서빙고 점주용 프론트엔드
-- React.js를 이용한 웹 어플리케이션 형태로 개발
-- Redux를 이용한 상태관리
-##
+edwith의 KOOC-KAIST Open Online Course에서 제공하는 인공지능 및 기계학습 개론/심화 수업에 대한 학습 및 자료 정리
+- 통계적 사고를 기반으로 다양한 머신러닝 기법 이해
+## 
 
-### _네이버 블로그 ID 크롤러_
-`#Python` `#Headless` `#Selenium`
+### _모두를 위한 딥러닝 with tensorflow2_
+`#Deep Learning` `#모두를 위한 딥러닝` `#시작하세요! 텐서플로 2.0 프로그래밍` `#YBIGTA`
 
-[GitHub Link](https://github.com/etture/Keyword_Id_Extractor)
+[GitHub Link](https://github.com/Nanjangpan/DeepLearningZeroToAll-tensorflow2) <br>
 
-네이버 블로그 ID 크롤러
-- Selenium의 Headless Chromium 드라이버를 이용하여 네이버 블로그 크롤링
-- 검색어에 따라 결과로 보여지는 블로그 글 목록을 크롤링하여 해당 게시글 작성자 및 댓글 작성자 ID 스크래이핑
-- 검색어 별 관심을 보인 유저 ID 추출, 타겟 광고 등에 활용
-##
+모두를 위한 딥러닝에서 제공하는 딥러닝의 기본 수업과 시작하세요! 텐서플로 2.0 프로그래밍 책에 대한 학습 및 자료 정리
+- 딥러닝 기초 공부
+- Tensorflow2 공부
+## 
 
-### _To-Do List 웹 프론트엔드 (프로그래머스 썸머코딩 인턴 2차 과제)_
-`#TypeScript` `#React` `#MobX`
+### _Introduction to Recommender Systems: Non-Personalized and Content-Based_
+`#Deep Learning` `#모두를 위한 딥러닝` `#YBIGTA`
 
-`#Firebase`
+[GitHub Link](https://github.com/Nanjangpan/Introduction-to-Recommender-Systems-study) <br>
 
-[GitHub Link](https://github.com/etture/todo_programmers_web)
+Introduction to Recommender Systems: Non-Personalized and Content-Based에서 제공하는 추천시스템 수업에 대한 학습 및 자료 정리
+- 추천시스템 기초 공부
+## 
 
-- React.js + TypeScript를 이용하여 간단한 To-Do List 프론트엔드 웹앱 구현
-- Node.js API와 연동
-- 서버로 네트워크 요청 중 프론트를 미리 렌더하고 state를 동기화하여 서버 속도와 관계없는 좋은 UX 
-##
+### _Computer Architecture_
+`#연세대학교 컴퓨터과학` `#컴퓨터 아키텍쳐`
 
-### _To-Do List 백엔드 (프로그래머스 썸머코딩 인턴 2차 과제)_
-`#TypeScript` `#Node.js` `#Express`
+[GitHub Link](https://github.com/Nanjangpan/Computer-Architecture) <br>
 
-`#AWS-RDS` `#Heroku`
-
-[GitHub Link](https://github.com/etture/todo_programmers_api)
-
-- Express + TypeScript를 이용하여 간단한 To-Do List 백엔드 REST API 구현
-- To-Do 항목 작성, 수정, 삭제, 마감기한 설정, 우선순위 설정 및 조정, 알림 등에 대한 endpoint 구현
+연세대학교 컴퓨터 아키텍쳐 수업에 대한 학습 및 자료 정리
+## 
 
 
 ## Courses
