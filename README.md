@@ -49,13 +49,12 @@ MMORPG Aion의 게임 로그를 활용하여 머신러닝 기법으로 게임 �
 ### _연세 데이터사이언스 경진대회_
 `#Python` `#Machine Learing` `#우수상`
 
-`#Firebase`
+[수상 내역](https://www.yonsei.ac.kr/ocx/news.jsp?mode=view&ar_seq=20191227163929003093&sr_volume=625&list_mode=list&sr_site=S&pager.offset=9)
 
-[GitHub Link](https://github.com/etture/Cuebap)
-
-연세대학교 테크노아트학부 캡스톤 프로젝트에서 의뢰 받아 제작한 안드로이드 앱입니다.
-- 메뉴 담기, 주문
-- Firebase를 이용한 소셜 로그인
+연세대학교에서 주최한 신한카드, NICE지니, PACKUS 총 3개의 회사의 데이터를 바탕으로 데이터기반 의사결정 지원 혹은 새로운 가치를 창출하는 대회
+- 패커스의 고객데이터 분석을 통해 회원 ID카드
+'PACKUS는 소상공인을 대상으로 한 포장용기 판매 전문업체'
+- 업종 크롤링, 재구매 예측, User-based CF
 ##
 
 ### _한국대학생IT경영학회 조원 편성 프로그램_ 
