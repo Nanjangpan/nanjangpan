@@ -1,2 +1,6 @@
-# resume_jinwoo
-포토폴리오 📃
+# Portfolio
+name : 백진우 <br>
+email : b970311@yonsei.ac.kr <br>
+tel : 010-9063-7064
+## projects
+
