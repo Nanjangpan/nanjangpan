@@ -36,17 +36,18 @@ tel: 010-9063-7064
 
 ## Projects
 
-### _Game bot detection_정보보호 R&D 데이터챌린지 2019 Game-bot-detection
-`#Python` `#Machine Learning`
+### _정보보호 R&D 데이터챌린지 2019 Game-bot-detection 대회_
+`#Python` `#Machine Learning` `#우수상`
 
 [GitHub Link](https://github.com/Nanjangpan/Game-bot-detection)
 
-MMORPG Aion의 게임 봇을 머신러닝 기법으로 탐지하는 대회
-- TabLayout, RecyclerView 등을 활용한 커뮤니티 앱
+MMORPG Aion의 게임 로그를 활용하여 머신러닝 기법으로 게임 봇을 탐지하는 대회
+- 대용량 로그 데이터를 전처리
+- 다양한 머신러닝 기법으로 게임 봇 탐지
 ## 
 
-### _Cuebap_
-`#Java` `#Android`
+### _연세 데이터사이언스 경진대회_
+`#Python` `#Machine Learing` `#우수상`
 
 `#Firebase`
 
