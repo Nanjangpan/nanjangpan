@@ -1,7 +1,6 @@
 # Portfolio
 ## About me
-백진우
-
+- name : 백진우
 * email: b970311@yonsei.ac.kr
 * tel: 010-9063-7064
 * 연세대학교 컴퓨터과학과 4학년
