@@ -44,7 +44,7 @@ MMORPG Aion의 게임 로그를 활용하여 머신러닝 기법으로 게임 �
 
 간단한 AUTO ML 구현하기
 * Hyper parameter tuning
- *Bayesian optimization(TPE)
+  * Bayesian optimization(TPE)
 * Meta Learning
 * Rule based(Machine Learnig algorithm cheat sheat)
 
