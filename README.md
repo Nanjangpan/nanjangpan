@@ -1,9 +1,24 @@
 # Portfolio
+## About me
 백진우
 
-email: b970311@yonsei.ac.kr
+* email: b970311@yonsei.ac.kr
+* tel: 010-9063-7064
+* 연세대학교 컴퓨터과학과 4학년
+* 연세대학교 빅데이터 동아리 YBIGTA 15기 (2019.07 ~ 현재)
+  * YBIGTA Science Team
+  * YBIGTA 16기 부회장
+* (주)IMAS 데이터 분석팀(2020.12.26 ~ 2020.02.05)
+  * ML PdM(머신러닝을 이용한 고장 예측 시스템) 구현
+  * Driving score(안전 운전 점수) 구현
+  * 차량 번호판 인식 With OpenCV and Tesseract
 
-tel: 010-9063-7064
+
+
+
+
+
+
 
 
 ## Proficiency
