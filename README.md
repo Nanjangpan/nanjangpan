@@ -12,31 +12,6 @@
   * Driving score(안전 운전 점수) 구현
   * 차량 번호판 인식 With OpenCV and Tesseract
 
-
-
-
-
-
-
-
-
-## Proficiency
-개발 경험이 있는 프로그래밍 언어 및 프레임워크입니다. 
-각각 능숙도에 따라 기재되어 있습니다.
-```
-🥇 가장 능숙
-🥈 어느 정도 능숙
-🥉 사용해 본 적 있음
-```
-
-### Programming Languages
-
-
-### Frameworks / Technologies
-
-
-
-
 ## Projects
 
 ### _정보보호 R&D 데이터챌린지 2019 Game-bot-detection 대회_
@@ -67,8 +42,12 @@ MMORPG Aion의 게임 로그를 활용하여 머신러닝 기법으로 게임 �
 
 [GitHub Link](https://github.com/Nanjangpan/Auto_ML)
 
-AUTO ML 
-- XGboost, LightGBM, Smote, Robust scaling, GridSearch 다양한 머신러닝 기법 사용
+간단한 AUTO ML 구현하기
+* Hyper parameter tuning
+ *Bayesian optimization(TPE)
+* Meta Learning
+* Rule based(Machine Learnig algorithm cheat sheat)
+
 ##
 
 ### _Kaggle Card fraud detection_ 
@@ -119,15 +98,6 @@ edwith의 KOOC-KAIST Open Online Course에서 제공하는 인공지능 및 기�
 Introduction to Recommender Systems: Non-Personalized and Content-Based에서 제공하는 추천시스템 수업에 대한 학습 및 자료 정리
 - 추천시스템 기초 공부
 ## 
-
-### _Computer Architecture_
-`#연세대학교 컴퓨터과학` `#컴퓨터 아키텍쳐`
-
-[GitHub Link](https://github.com/Nanjangpan/Computer-Architecture) <br>
-
-연세대학교 컴퓨터 아키텍쳐 수업에 대한 학습 및 자료 정리
-## 
-
 
 ## Courses
 대학교에서 컴퓨터과학을 전공하며 현재까지 수강한 과목 리스트입니다.
