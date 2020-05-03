@@ -135,4 +135,4 @@ Introduction to Recommender Systems: Non-Personalized and Content-Based에서 �
 
 
 
-#### 감사합니다 👍
+#### 감사합니다
