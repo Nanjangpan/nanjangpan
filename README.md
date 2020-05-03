@@ -109,7 +109,7 @@ Introduction to Recommender Systems: Non-Personalized and Content-Based에서 �
 ## 
 
 ## Courses
-대학교에서 컴퓨터과학을 전공하고 응용통계학과 수업에 관심이 많아 같이 수강한 전공 과목 리스트입니다.
+대학교에서 컴퓨터과학을 전공하며 현재까지 수강한 과목 리스트입니다.
 
 - 컴퓨터프로그래밍 (`C`)
 - 객체지향프로그래밍 (`C++`)
