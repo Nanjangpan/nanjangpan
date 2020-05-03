@@ -7,7 +7,7 @@
 * 연세대학교 빅데이터 동아리 YBIGTA 15기 (2019.07 ~ 현재)
   * YBIGTA Science Team
   * YBIGTA 16기 부회장
-* (주)IMAS 데이터 분석팀(2020.12.26 ~ 2020.02.05)
+* (주)IMAS 데이터 분석팀(2019.12.26 ~ 2020.02.05)
   * ML PdM(머신러닝을 이용한 고장 예측 시스템) 구현
   * Driving score(안전 운전 점수) 구현
   * 차량 번호판 인식 With OpenCV and Tesseract
@@ -69,7 +69,7 @@ Augmented Reality (AR, 증강현실) 을 이용한 한글 교육 프로그램
 <br>
 
 ## Study 
-YBIGTA 빅데이터 동아리에서 진행한 
+YBIGTA 빅데이터 동아리에서 진행한 스터디들
 
 ### _Introduction Statistical Learning Study_
 `#Machine Learning` `#An Introduction to Statistical Learning` `#YBIGTA`
