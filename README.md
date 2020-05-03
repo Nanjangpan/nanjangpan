@@ -50,6 +50,15 @@ MMORPG Aion의 게임 로그를 활용하여 머신러닝 기법으로 게임 �
 
 ##
 
+### _DictionARy_ 
+`#C#` `#Unity` `#AR` `Vuforia` `Android`
+
+[GitHub Link](https://github.com/Nanjangpan/DictionARy)
+
+Augmented Reality (AR, 증강현실) 을 이용한 한글 교육 프로그램
+
+##
+
 ### _Kaggle Card fraud detection_ 
 `#Python` `#Machine Learning` 
 
