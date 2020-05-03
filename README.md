@@ -69,7 +69,7 @@ Augmented Reality (AR, 증강현실) 을 이용한 한글 교육 프로그램
 <br>
 
 ## Study 
-연세대학교 수업, 와이빅타 빅데이터 동아리 등에서 한 수업 및 스터디
+YBIGTA 빅데이터 동아리에서 진행한 
 
 ### _Introduction Statistical Learning Study_
 `#Machine Learning` `#An Introduction to Statistical Learning` `#YBIGTA`
