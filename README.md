@@ -10,7 +10,6 @@
 * (주)IMAS 데이터 분석팀(2019.12.26 ~ 2020.02.05)
   * ML PdM(머신러닝을 이용한 고장 예측 시스템) 구현
   * Driving score(안전 운전 점수) 구현
-  * 차량 번호판 인식 With OpenCV and Tesseract
 
 ## Projects
 
