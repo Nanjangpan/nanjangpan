@@ -70,6 +70,13 @@ Augmented Reality (AR, 증강현실) 을 이용한 한글 교육 프로그램
 - XGboost, LightGBM, Smote, Robust scaling, GridSearch 다양한 머신러닝 기법 사용
 <br>
 
+##
+
+### _Nikunaeku_ (개발중)
+`#React-native`, `#Firebase`
+
+쿠폰 중고 거래 어플리케이션
+
 ## Study 
 YBIGTA 빅데이터 동아리에서 진행한 스터디들
 
