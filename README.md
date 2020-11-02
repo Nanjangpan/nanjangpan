@@ -5,14 +5,14 @@
 * tel: 010-9063-7064
 * 연세대학교 컴퓨터과학과 4학년
 * 연세대학교 빅데이터 동아리 YBIGTA 15기 (2019.07 ~ 현재)
-  * YBIGTA Science Team
+  * YBIGTA Science Team & Engineering Team
   * YBIGTA 16기 부회장
 * (주)IMAS 데이터 분석팀(2019.12.26 ~ 2020.02.05)
   * ML PdM(머신러닝을 이용한 고장 예측 시스템) 구현
   * Driving score(안전 운전 점수) 구현
 * 카카오 추천팀(2020.06.29 ~ 2020.08.28)
   * 미디어 다음뉴스의 추천 개선
-  * Recomendation bias 해소 
+  * 다음 Mtop의 Recomendation bias 해소 
   
 ## Projects
 
@@ -73,7 +73,7 @@ Augmented Reality (AR, 증강현실) 을 이용한 한글 교육 프로그램
 ##
 
 ### _Nikunaeku_ (개발중)
-`#React-native`, `#Firebase`
+`#React-native` `#Firebase`
 
 쿠폰 중고 거래 어플리케이션
 
