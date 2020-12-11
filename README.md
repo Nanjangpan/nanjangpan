@@ -52,6 +52,15 @@ MMORPG Aion의 게임 로그를 활용하여 머신러닝 기법으로 게임 �
 
 ##
 
+### _Database project_ 
+`#react` `#redux` `#node.js`
+
+[GitHub Link](https://github.com/Nanjangpan/Database-Project)
+
+Database 수업에서 DB 설계를 하고 이를 기반으로 웹사이트 
+
+##
+
 ### _DictionARy_ 
 `#C#` `#Unity` `#AR` `Vuforia` `Android`
 
@@ -76,6 +85,7 @@ Augmented Reality (AR, 증강현실) 을 이용한 한글 교육 프로그램
 `#React-native` `#Firebase`
 
 쿠폰 중고 거래 어플리케이션
+
 
 ## Study 
 YBIGTA 빅데이터 동아리에서 진행한 스터디들
