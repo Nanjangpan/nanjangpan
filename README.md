@@ -1,6 +1,7 @@
 # Portfolio
 ## About me
 - name : 백진우
+* date of birth : 1997.03.11
 * email: b970311@yonsei.ac.kr
 * tel: 010-9063-7064
 * 연세대학교 컴퓨터과학과 4학년
