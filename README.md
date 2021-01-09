@@ -82,10 +82,14 @@ Augmented Reality (AR, 증강현실) 을 이용한 한글 교육 프로그램
 
 ##
 
-### _Nikunaeku_ (개발중)
+### _Nikunaeku_ 
 `#React-native` `#Firebase`
 
 쿠폰 중고 거래 어플리케이션
+
+
+[GitHub Link](https://github.com/Nanjangpan/nikunaekuapp
+) <br>
 
 
 ## Study 
