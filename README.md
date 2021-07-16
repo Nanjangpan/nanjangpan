@@ -14,6 +14,20 @@
 * 카카오 추천팀(2020.06.29 ~ 2020.08.28)
   * 미디어 다음뉴스의 추천 개선
   * 다음 Mtop의 Recomendation bias 해소 
+* 실비아 헬스(2021.02.01 ~ 현재)
+  * Frontend
+    * React 기반 웹사이트 리뉴얼
+    * Agora 화상회의 구현
+    * React natvie 모바일 구현
+  * Backend
+    * Algolia를 통해 검색 시스템 구축
+    * Firebase
+    * Firebase -> GraphQL Migration
+  * Infra
+    * terraform 으로 aws 인프라 구축
+  * AI
+    * AI 경진대회(노년층 대화를 통한 감성분석) 3등
+    * [실비아 헬스팀 순위 인증 사이트](https://www.nipa.kr/main/selectBbsNttView.do?key=121&bbsNo=1&nttNo=1995&bbsTy=biz&searchCtgry=&searchCnd=SJ&searchKrwd=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5&pageIndex=1)
   
 ## Projects
 
