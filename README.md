@@ -5,7 +5,7 @@
 * email: b970311@yonsei.ac.kr
 * tel: 010-9063-7064
 * 연세대학교 컴퓨터과학과 4학년
-* 연세대학교 빅데이터 동아리 YBIGTA 15기 (2019.07 ~ 현재)
+* 연세대학교 빅데이터 동아리 YBIGTA 15기 (2019.07 ~ 2021.08)
   * YBIGTA Science Team & Engineering Team
   * YBIGTA 16기 부회장
 * (주)IMAS 데이터 분석팀(2019.12.26 ~ 2020.02.05)
