@@ -67,6 +67,18 @@ MMORPG Aion의 게임 로그를 활용하여 머신러닝 기법으로 게임 �
 
 ##
 
+### _XAI_
+`#Python` `#Machine Learning` `#XAI`
+
+[GitHub Link](https://github.com/Nanjangpan/XAI)
+
+XAI 구현해보기
+* LIME
+* SHAP
+* LRP
+
+##
+
 ### _Database project_ 
 `#react` `#redux` `#node.js`
 
