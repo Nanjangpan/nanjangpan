@@ -28,6 +28,16 @@
   * AI
     * AI 경진대회(노년층 대화를 통한 감성분석) 3등
     * [실비아 헬스팀 순위 인증 사이트](https://www.nipa.kr/main/selectBbsNttView.do?key=121&bbsNo=1&nttNo=1995&bbsTy=biz&searchCtgry=&searchCnd=SJ&searchKrwd=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5&pageIndex=1)
+ * Line Plus의 Voom Recommendation Engineer(2022.06.27 ~ )
+   * 추천 모델의 학습에서부터 배포, 운영까지의 파이프라인을 MLOps 관점에서 고민하고 고도화
+   * 시스템
+      * 추천 모델을 사용자에게 서비스 하기 위한 대용량 파이프라인 시스템 및 실시간 대용량 API 개발
+      * LINE에서 운영 중인 ML 플랫폼과의 연동 및 고도화
+   * 데이터
+      * 추천 모델에서 사용하는 데이터의 정합성 유지, 개선
+      * 추천 모델에서 사용하는 데이터의 external dependency 관리
+   * 모델 서빙
+      * Data Scientist가 개발한 프로토타입 추천 모델을 서비스에 적합한 고성능 프로덕션 모델로 최적화 및 서빙
   
 ## Projects
 
